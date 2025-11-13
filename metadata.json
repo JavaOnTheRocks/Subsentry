@@ -1,0 +1,5 @@
+{
+  "name": "SubSentry",
+  "description": "A web application to help you stay in control of your subscriptions. Track your spending, get reminders for upcoming renewals, and manage all your subscriptions in one place.",
+  "requestFramePermissions": []
+}
